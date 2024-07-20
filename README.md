@@ -14,6 +14,17 @@
 - ⚡ Fun fact **Call me as Nethu**
 
 ---
+
+### My Statistics
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Nethuni20000&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nethuni20000&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethuni20000&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nethuni20000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<br>
+
+---
+
 ## My Interests
 
 <h3 align="left">Connect with me:</h3>
@@ -35,13 +46,4 @@
   
 ---
 
-### My Statistics
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Nethuni20000&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nethuni20000&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethuni20000&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nethuni20000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-
-<br>
